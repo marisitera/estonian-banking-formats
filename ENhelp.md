@@ -50,7 +50,7 @@ Rules are used on action **Apply Automatically** in **Payment Reconciliation Jou
 
 
 ## Payment recipient
-In case the payment recipient differs from the vendor (for example in case of factoring), fill in data under **Recipient** tab on the **Vendor Bank Account Card**. If the **Recipient Name** is filled, is is also used in the payment file.  
+In case the payment recipient differs from the vendor (for example in case of factoring), fill in data under **Recipient** tab on the **Vendor Bank Account Card**. If the **Recipient Name** is filled, it is also used in the payment file.  
 
 ***
 
